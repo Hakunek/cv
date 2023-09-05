@@ -1,5 +1,5 @@
 
-<h1>Hey, I'm Hakunek (a.k.a. Waves)</h1>
+<h1> Hi I'm Mark this here you can find my outdated simplified cv in index.html if I ever quit my job, I will update it, bot for now, I'll let it stay outdated</h1>
 <p align="center">I'm just a dumb IT Student that likes coding and who has no future...</p>
 <!-- <h1>Technologies</h1>
 <p align="center">
